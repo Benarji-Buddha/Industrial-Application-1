@@ -11,3 +11,6 @@ Input-3 -------------------- D4
 Output --------------------- D6
 
 Please connect 1K or 10K Pull down resistos for all the inputs.
+
+
+![]{images/PullUp_and_PullDown.jpeg}
